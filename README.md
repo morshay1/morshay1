@@ -10,5 +10,5 @@ Outside of programming, I enjoy drawing, climbing, and running.
 
 ## 🔗 Contact Me
 
-- 📫 [Email Me](mailto:morshay99@gmail.com) — Feel free to reach out
-- 💼 [LinkedIn](https://www.linkedin.com/in/mor-shay/) — Let's connect
+📫 [Email Me](mailto:morshay99@gmail.com) — Feel free to reach out
+💼 [LinkedIn](https://www.linkedin.com/in/mor-shay/) — Let's connect
