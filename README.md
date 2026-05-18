@@ -1,16 +1,14 @@
-## Hi there 👋
+Hello world! I'm Mor — a programmer who wants to become the best.
 
-<!--
-**morshay1/morshay1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+After completing my B.Sc. in Software Engineering, I started my M.Sc. in Computational Medicine where I'm exploring the intersection between AI, software engineering, and medicine.
 
-Here are some ideas to get you started:
+In my free time, I build personal projects in different programming languages and technologies simply because I enjoy learning, creating, and becoming a better developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of programming, I enjoy drawing, climbing, and running.
+
+---
+
+## 🔗 Contact Me
+
+- 📫 [Email Me](mailto:morshay99@gmail.com) — Feel free to reach out
+- 💼 [LinkedIn](https://www.linkedin.com/in/mor-shay/) — Let's connect
