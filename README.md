@@ -4,7 +4,7 @@
 
 <p align="center">
   🎓 Software Engineering Graduate &nbsp;•&nbsp;
-  🧬 M.Sc. Computational Medicine &nbsp;•&nbsp;
+  🧬 M.Sc. Computational Medicine
 </p>
 
 <p align="center">
