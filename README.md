@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mor-shay/">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
   <a href="https://github.com/morshay1">
