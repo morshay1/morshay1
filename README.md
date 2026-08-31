@@ -1,7 +1,28 @@
-Hello world! I'm **Mor** — a programmer who wants to become the best.
+<h1 align="center">
+  Hello there, I'm Mor
+</h1>
 
-After completing my B.Sc. in Software Engineering, I started my M.Sc. in Computational Medicine where I'm exploring the intersection between AI, software engineering, and medicine.
+---
 
-In my free time, I build personal projects in different programming languages and technologies because I enjoy learning, creating, and becoming a better developer.
+<p align="center">
+  🎓 Software Engineering Graduate &nbsp;•&nbsp;
+  🧬 M.Sc. Computational Medicine &nbsp;•&nbsp;
+</p>
 
-Besides programming, I enjoy drawing, climbing, and running.
+<p align="center">
+  Ambitious woman driven by a love for continuous learning and growth.
+</p>
+
+<br>
+
+<p align="center">
+
+  <a href="www.linkedin.com/in/mor-shay">
+    <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+
+  <a href="https://github.com/morshay1">
+    <img src="https://img.shields.io/badge/GitHub-GitHub-black?style=for-the-badge&logo=github">
+  </a>
+
+</p>
