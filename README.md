@@ -2,8 +2,6 @@
   Hello there, I'm Mor
 </h1>
 
----
-
 <p align="center">
   🎓 Software Engineering Graduate &nbsp;•&nbsp;
   🧬 M.Sc. Computational Medicine &nbsp;•&nbsp;
