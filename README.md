@@ -1,14 +1,13 @@
 <h1 align="center">
-  Hello there, I'm Mor
+  Hello there, I'm Mor 
 </h1>
 
 <p align="center">
-  🎓 Software Engineering Graduate &nbsp;•&nbsp;
-  🧬 M.Sc. Computational Medicine
+  Software Engineer
 </p>
 
 <p align="center">
-  Ambitious woman driven by a love for continuous learning and growth.
+  Loves climbing, fashion and to sharpen my coding skills
 </p>
 
 <br>
