@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello bitches, I'm Mor 
+  Hello world, I'm Mor 
 </h1>
 
 <p align="center">
