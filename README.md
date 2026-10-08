@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello there, I'm Mor 
+  Hello bitches, I'm Mor 
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Loves climbing, fashion and to sharpen my coding skills
+  Loves boulder climbing and cats
 </p>
 
 <br>
