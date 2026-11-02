@@ -4,11 +4,10 @@
 
 💻 Software Engineer
 
-Loves boulder climbing and cats
+Loves boulder climbing and cats <3
 
-
-<a href="https://www.linkedin.com/in/mor-shay/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/morshay1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/mor-shay/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://neetcode.io/user/QuantumBatarang833"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="NeetCode" /></a>
 <a href="https://gitlab.com/morshay1"><img src="https://custom-icon-badges.demolab.com/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
 
